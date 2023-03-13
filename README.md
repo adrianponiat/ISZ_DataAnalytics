@@ -1,3 +1,3 @@
 # ISZ_DataAnalytics
 
-Repository for tasks from Data Analytics course
+Repository for laboratory exercises from Data Analytics course
